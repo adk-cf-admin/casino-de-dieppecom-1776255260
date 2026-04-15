@@ -1,0 +1,204 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#000000",
+            "lang-select-color": "#222829",
+            "bg-light": "#000000",
+            "welcome-bonus-bg": "#000000",
+            "top-games-hover-fg": "#deeadf",
+            "main-bg": "#292929",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#000000",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#292929",
+            "yellow-button": "#CD2D26",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#000000",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#ffffff",
+            "providers-back": "#000000",
+            "faq-label": "#000000",
+            "bg-footer": "#000000",
+            "copyright": "#CD2D26",
+            "starColor": "#fbff00",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6264"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6268",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino de Dieppe"
+        },
+        "nav": {
+            "signUp": "S’inscrire",
+            "playNow": "Jouer maintenant"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6267",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino de Dieppe"
+        }
+    },
+    "pages": [
+        {
+            "id": "fr-fr-fr-FR",
+            "path": "\/",
+            "name": "Французский",
+            "languageCode": "fr",
+            "regionCode": "FR",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Casino de Dieppe",
+                    "title": "Casino de Dieppe — Présentation du casino terrestre",
+                    "description": "Découvrez Casino de Dieppe, notre casino terrestre. Licence, opérateur, jeux, paiements, bonus, fidélité et services aux visiteurs : not specified.",
+                    "canonical": "casino-de-dieppe.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6279",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casino-de-dieppe.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6280"
+                },
+                "hero": {
+                    "title": "Casino de Dieppe – jeux, restauration et détente avec vue sur mer",
+                    "textDesktop": "Offre de bienvenue exclusive de",
+                    "textMobile": "Offre de bienvenue exclusive de",
+                    "playGame": "Lancer la partie",
+                    "claimBonus": "Réclamer le bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6281",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -2,
+                    "imageXModifier": 2,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6282",
+                    "mobileImageSizeModifier": -3,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Activer le bonus",
+                    "title": "Top casinos",
+                    "allCasino": "Tous les casinos",
+                    "welcomeBonusText": "Bonus de bienvenue"
+                },
+                "bonusDetails": {
+                    "title": "Détails du bonus",
+                    "getBonusButtonText": "Obtenir le bonus",
+                    "maximumAmountText": "Montant maximum",
+                    "wagerText": "",
+                    "bonusCodeText": "Code promo",
+                    "casino": "Casino",
+                    "bonuses": "Bonus",
+                    "rate": "Note",
+                    "freeSpins": "Tours gratuits",
+                    "moreInfo": "Plus d'infos",
+                    "get": "Obtenir",
+                    "refresh": "Actualiser"
+                },
+                "advantages": {
+                    "title": "Avantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Format terrestre centré sur la visite",
+                        "Identité de casino clairement définie",
+                        "Nom d’établissement identifiable pour visiteurs",
+                        "Expérience sur place au premier plan",
+                        "Présence physique liée à notre marque"
+                    ],
+                    "advantagesAfterText": "",
+                    "knowMore": "En savoir plus",
+                    "appTitle": "Casino de Dieppe App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6283",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Casino de Dieppe App",
+                    "mobileGooglePlayImageTitle": "Casino de Dieppe App",
+                    "mobileIosImageTitle": "Casino de Dieppe App"
+                },
+                "games": {
+                    "playNowText": "Jouer maintenant",
+                    "title": "Jeux populaires",
+                    "allGames": "Tous les jeux"
+                },
+                "about": {
+                    "history": {
+                        "title": "À propos du casino",
+                        "description1": "",
+                        "items": [
+                            "1 nom d’établissement confirmé est Casino de Dieppe, ce qui identifie clairement la propriété.",
+                            "Le casino a 1 format confirmé : un établissement terrestre, et non une plateforme en ligne.",
+                            "À l’heure actuelle, 0 détail vérifié n’est fourni concernant la licence ou l’opérateur.",
+                            "Parmi ces 3 points de données clés, seuls le nom et le format physique sont confirmés.",
+                            "Ce profil contient actuellement 2 éléments vérifiés et 1 détail réglementaire non précisé."
+                        ],
+                        "description2": "Nous opérons sous le nom Casino de Dieppe et notre positionnement confirmé est celui d’un casino terrestre. Pour nos visiteurs, cela renvoie à une expérience en établissement, pensée autour de la présence sur place, de l’ambiance réelle du lieu et d’un rapport direct avec notre univers de jeu.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6284",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": ""
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Caractéristiques principales",
+                        "description": "<p>Cette distinction entre casino terrestre et plateforme numérique n’est pas un simple détail de classification. Elle structure immédiatement les attentes du public. Un établissement physique évoque un lieu précis, une ambiance identifiable, une présence sur le terrain et une relation directe avec les visiteurs, alors qu’un site en ligne repose sur une logique totalement différente. Mentionner ce format confirmé permet donc d’orienter correctement la perception dès les premières lignes.<\/p><br><p>\nLe nom Casino de Dieppe joue également un rôle essentiel dans la cohérence de la fiche. Une dénomination claire facilite la mémorisation, améliore la reconnaissance de marque et donne un point d’ancrage solide à l’ensemble du contenu descriptif. Pour un lecteur, cela crée une entrée simple et crédible dans l’information. Pour un moteur de recherche, cela renforce la précision sémantique de la page et la pertinence du sujet traité.<\/p><br><p>\nLorsqu’une information comme la licence ou l’opérateur n’est pas encore confirmée, l’approche la plus pertinente consiste à le signaler sans extrapolation. Cette méthode éditoriale protège la qualité du contenu et évite d’introduire des données incertaines qui pourraient nuire à la confiance. Dans un secteur où la précision est déterminante, afficher clairement ce qui est connu et ce qui ne l’est pas constitue déjà un marqueur sérieux de fiabilité.<\/p><br><p>\nSur le plan de la lecture, une fiche structurée autour de données vérifiées offre une meilleure expérience utilisateur. Le visiteur comprend rapidement l’essentiel, sans devoir trier des formulations ambiguës ou des promesses vagues. Cette clarté améliore non seulement le confort de lecture, mais aussi la valeur informative de la page. Même avec un nombre limité d’éléments confirmés, un contenu bien organisé peut rester utile, crédible et professionnel.<\/p><br><p>\nEnfin, cette base descriptive peut servir de fondation à un enrichissement futur plus complet. À mesure que de nouvelles informations vérifiées deviennent disponibles, la fiche peut intégrer des précisions supplémentaires sur l’exploitation, l’encadrement réglementaire ou les caractéristiques du lieu. En attendant, présenter clairement le nom confirmé, le format terrestre et l’absence actuelle de certains détails reste une manière solide de construire une page propre, honnête et durable.<\/p>\n<br>\n<div style=\"width:100%; max-width:100%; overflow:hidden;\">\n  <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; font-family:Arial, sans-serif; font-size:clamp(9px, 2.2vw, 14px); color:#ffffff; background:transparent;\">\n    \n    <tr>\n      <th style=\"width:38%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Caractéristique\n      <\/th>\n      <th style=\"width:62%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Détails\n      <\/th>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Nom du casino\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Casino de Dieppe\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Type d’établissement\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Casino terrestre\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Opérateur \/ groupe\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Groupe Partouche\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Raison sociale\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        SOC CASINO BAINS MER DIEPPE (SCBM)\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Adresse\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        3 boulevard de Verdun, 76200 Dieppe, France\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Ville \/ région\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Dieppe, Seine-Maritime, Normandie, France\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Emplacement\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Face à la plage, entre le front de mer et le centre-ville historique, en face du centre aquatique Les Bains\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Accès pratique\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        À environ 500 mètres du Château-Musée et à 10 minutes à pied de la gare de Dieppe\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Téléphone\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        +33 2 32 14 48 00\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Fax\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        +33 2 32 14 48 05\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        E-mail\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        casinodieppe@partouche.com\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Site web\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        www.casinodieppe.com\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Coordonnées GPS\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        49°55'34.4&quot;N 1°04'24.8&quot;E\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Année de création de l’établissement\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        1957\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        SIRET\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        572 750 321 00018\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Code APE \/ NAF\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        92.00Z — Organisation de jeux de hasard et d’argent\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Période d’ouverture\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Ouvert toute l’année\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Horaires généraux\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Machines et espaces de jeu ouverts dès 10h, jusqu’à 3h en semaine et 4h le week-end\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Jeux traditionnels\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Blackjack, roulette anglaise et ultimate poker avec horaires variables selon les jours\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Programme de fidélité\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Accès au programme Players Plus\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Restauration sur place\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Restaurant panoramique Le Trèfle\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Hébergement sur place\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Hôtel 4 étoiles avec 25 chambres et suites rénovées\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Services aux visiteurs\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Parking, WiFi gratuit, bar, restaurant, salle de réunion équipée, salle de projection, théâtre de 600 places\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Cadre réglementaire\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Établissement de jeux exploité en France, soumis à l’autorisation de l’État et au contrôle de la politique de jeu responsable\n      <\/td>\n    <\/tr>\n\n  <\/table>\n<\/div>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Fournisseurs de logiciels"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Dépôts et retraits",
+                        "description": "<p>Dans notre casino, la dimension transactionnelle s’inscrit pleinement dans une expérience pensée pour la clarté, le confort et la maîtrise du budget. Nous savons que, pour nos visiteurs, la qualité de cette étape contribue directement à la fluidité du parcours et à la sérénité de la visite.<\/p><br>\n<p>Nous abordons ce sujet avec une logique orientée utilisateur. Pour nous, l’expérience ne se limite pas au jeu : elle englobe aussi la façon dont nos visiteurs préparent leur venue, organisent leur budget de divertissement et évaluent la praticité globale de notre casino.<\/p><br>\n<p>À travers cette section, nous mettons en avant une lecture structurée et utile de notre environnement transactionnel. Cette approche aide nos visiteurs à mieux se projeter, à apprécier la cohérence de notre offre et à comprendre la valeur pratique de notre casino dans une logique de visite réelle.<\/p><br>\n<p>Nous accordons une place importante à la lisibilité des informations, car elle renforce l’expérience globale et soutient une prise de décision plus confortable. Pour nos visiteurs, cette transparence participe à une relation de confiance et à une perception plus qualitative de notre casino.<\/p><br>\n<p>Notre positionnement repose sur une expérience terrestre qui valorise le contact direct avec le lieu, l’ambiance sur place et une organisation claire du parcours visiteur. Dans ce cadre, la partie liée aux transactions s’intègre naturellement à une lecture plus large du confort, de la préparation et de la gestion du budget de jeu.<\/p><br>\n<p>En mettant l’accent sur une présentation nette, utile et centrée sur nos visiteurs, nous renforçons la dimension pratique de notre casino. Cette lecture permet d’apprécier notre établissement avec plus de précision, dans un esprit à la fois informatif, rassurant et résolument tourné vers l’expérience sur place.<\/p><br>\n<p>Dans cette optique, nous veillons également à maintenir une cohérence entre les différents moyens de paiement proposés et les attentes réelles de nos visiteurs. Cette diversité permet à chacun de choisir la solution la plus adaptée à ses habitudes, tout en garantissant une utilisation simple et immédiate sur place, sans complexité inutile.<\/p><br>\n<p>La dimension pratique reste au cœur de notre approche. En facilitant l’accès aux transactions et en assurant une disponibilité claire des options de paiement, nous contribuons à réduire les points de friction lors de la visite. Cela permet à nos clients de se concentrer pleinement sur l’expérience de divertissement, sans contraintes logistiques superflues.<\/p><br>\n<p>Enfin, cette organisation s’inscrit dans une volonté plus large d’offrir un environnement structuré, fiable et accessible. En combinant transparence, simplicité et diversité des solutions, nous renforçons la qualité perçue de notre casino et proposons une expérience globale qui répond aux attentes d’un public en quête de confort et de clarté.<\/p>\n<br>\n<div style=\"width:100%; max-width:100%; overflow:hidden;\">\n  <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; font-family:Arial, sans-serif; font-size:clamp(9px, 2.2vw, 14px); color:#ffffff; background:transparent;\">\n    \n    <tr>\n      <th style=\"width:38%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Mode de paiement\n      <\/th>\n      <th style=\"width:62%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Disponibilité dans notre casino\n      <\/th>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        American Express\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Accepté sur place\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Carte bleue\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Acceptée sur place\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Chèques bancaires et postaux\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Acceptés sur place\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Chèques Vacances\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Acceptés sur place\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Espèces\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Acceptées sur place\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Eurocard - Mastercard\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Acceptée sur place\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Virements\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Acceptés sur place\n      <\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Visa\n      <\/td>\n      <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n        Acceptée sur place\n      <\/td>\n    <\/tr>\n\n  <\/table>\n<\/div>"
+                    }
+                },
+                "faq": {
+                    "title": "FAQ",
+                    "items": [
+                        {
+                            "title": "Qu’est-ce que Casino de Dieppe ?",
+                            "answer": "Nous sommes présentés comme un casino terrestre sous le nom Casino de Dieppe."
+                        },
+                        {
+                            "title": "Casino de Dieppe est-il un casino en ligne ?",
+                            "answer": "Non, notre format confirmé est terrestre."
+                        },
+                        {
+                            "title": "L’expérience de Casino de Dieppe est-elle pensée pour une visite sur place ?",
+                            "answer": "Oui, notre format repose sur une expérience en établissement."
+                        },
+                        {
+                            "title": "Casino de Dieppe correspond-il à un lieu physique de jeu ?",
+                            "answer": "Oui, notre positionnement confirmé est celui d’un casino terrestre."
+                        },
+                        {
+                            "title": "Notre identité de casino est-elle clairement confirmée ?",
+                            "answer": "Oui, les données fournies confirment notre nom et notre format."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
